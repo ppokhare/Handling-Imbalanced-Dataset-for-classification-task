@@ -14,5 +14,5 @@ Test data Result:
 	Accuracy: No one care :)  
 
 Original Focal Loss paper: https://arxiv.org/abs/1708.02002  
-Really good explainion blog: https://leimao.github.io/blog/Focal-Loss-Explained/
+Really good explainion blog: https://leimao.github.io/blog/Focal-Loss-Explained/  
 Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
