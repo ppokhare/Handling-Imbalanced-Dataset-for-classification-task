@@ -4,15 +4,14 @@ In real life, almost all the data that you gathered will be highly imbalanced. F
 
 There are various tactics to tackle this problem of imbalanced data set, but in this project, I am using two ways: Use of robust evaluation metrics (AUC Precision-Recall Curve, F1-score) and to use custom loss function (Focal Loss).
 
-
-
 I used Neural Networks in highly imbalanced credit card transactions dataset to predict the fradulant cases. The positive class (frauds) is only 0.172% of all transactions.   
-Test data Result:
-	AUC-PR score: 80.84%,
-	F-1 score: 82.11% 
-	Precision: 84.78%
-	Recall: 79.49%
-	Accuracy: No one care :)
+
+Test data Result:  
+	AUC-PR score: 80.84%  
+	F-1 score: 82.11%   
+	Precision: 84.78%  
+	Recall: 79.49%  
+	Accuracy: No one care :)  
 
 Original Focal Loss paper: https://arxiv.org/abs/1708.02002  
 Really good explainion blog: https://leimao.github.io/blog/Focal-Loss-Explained/
